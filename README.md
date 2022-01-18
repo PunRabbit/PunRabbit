@@ -28,7 +28,7 @@ Language what I can do
 
 Framework what I can do
 
-<img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/><img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
 
 
@@ -40,3 +40,9 @@ Database what I can do
 And I usually use these programs!
 
 <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+
+
+And ~~~~! My special identity is relate with this! I hope create my own Webtoon :>
+
+
+<img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/>
