@@ -46,3 +46,5 @@ And ~~~~! My special identity is relate with this! I hope create my own Webtoon 
 
 
 <img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit)](https://github.com/깃허브아이디/github-readme-stats)
