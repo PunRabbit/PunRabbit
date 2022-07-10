@@ -1,5 +1,4 @@
-### 웹툰 사이트 자가공급을 위해 둠칫둠 - I want to build my own Universe!!!⚡⚡ :>
-
+## 야생에서 퍼올린 Python 서버 개발자
 
 
 
@@ -46,6 +45,18 @@ And ~~~~! My special identity is relate with this! I hope create my own Webtoon 
 
 
 <img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/>
+
+## 최근 고민거리 💭 
+
+1. fastAPI의 폴더구조
+
+2. python 객체지향
+
+3. 서버에 최적화된 python 코딩스타일
+
+4. 유연하고 튼튼한 테스트코드
+
+5. 서버 배포방식
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats)
 
