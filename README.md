@@ -47,6 +47,6 @@ And ~~~~! My special identity is relate with this! I hope create my own Webtoon 
 
 <img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit)](https://github.com/punrabbit/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punrabbit)](https://github.com/punrabbit/github-readme-stats)
