@@ -1,4 +1,4 @@
-### I want to build my own Universe!!!⚡⚡ :>
+### 웹툰 사이트 자가공급을 위해 둠칫둠 - I want to build my own Universe!!!⚡⚡ :>
 
 
 
@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Language what I can do
+내가 사용하고 있는 언어 - Language what I can do
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 
 
 
-Framework what I can do
+사용하는 프레임워크 - Framework what I can do
 
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/><img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/> 
 
 
 
-Database what I can do
+사용하는 데이터베이스 - Database what I can do
 
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 
-And I usually use these programs!
+사용하는 개발툴 - And I usually use these programs!
 
 <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 
