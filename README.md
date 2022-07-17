@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 4. python에서의 좋은 테스트코드란?
 
-5. 소규모 서버 배포방식 <br/><br/>
+5. 소규모 서버 배포방식
+
+6. if "a" in ["a", "b"] is True 는 어째서 False...? <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
 
