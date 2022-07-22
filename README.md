@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 1. FastAPI의 폴더구조
 
-2. Python 객체지향
+2. Python 객체지향 프로그래밍
 
 3. 사내 협업 개발에 최적화된 python 코딩스타일
 
