@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 5. 소규모 서버 배포방식
 
-6. if "a" in ["a", "b"] is True 는 어째서 False...? <br/><br/>
+6. if "a" in ["a", "b"] is True 는 어째서 False...?
+
+7. Python과 JAVA의 언어적 차이와 그 차이에서 비롯되는 것들? <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
 
