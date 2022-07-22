@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 ### 최근 고민거리 💭 
 
-1. fastAPI의 폴더구조
+1. FastAPI의 폴더구조
 
-2. python 객체지향
+2. Python 객체지향
 
 3. 사내 협업 개발에 최적화된 python 코딩스타일
 
-4. python에서의 좋은 테스트코드란?
+4. Python에서의 좋은 테스트코드란?
 
 5. 소규모 서버 배포방식
 
