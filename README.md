@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 8. Python에서 JAVA의 인터페이스를 적절하게 적용할 방법 (덕타이핑 활용은 어떨까..?)
 
-9. Pypi에서 만든 overrides 라이브러리를 통해 확장성있고 명확한 객체를 만들어내는 방법 br/><br/>
+9. Pypi에서 만든 overrides 라이브러리를 통해 확장성있고 명확한 객체를 만들어내는 방법 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
 
