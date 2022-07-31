@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 7. Python과 JAVA의 언어적 차이와 그 차이에서 비롯되는 것들? 
 
-8. Python에서 JAVA의 인터페이스를 적절하게 적용할 방법 (덕타이핑 활용은 어떨까..?)
+8. Python에서 JAVA의 인터페이스를 적절하게 적용할 방법 (덕타이핑 활용은 어떨까..?) [덕타이핑 메모](https://punrabbit.github.io/python-ducktyping/)
 
 9. Pypi에서 만든 overrides 라이브러리를 통해 확장성있고 명확한 객체를 만들어내는 방법 
 
