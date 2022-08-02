@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 10. Python 디스크립터 __slots__ 와 OOP 개념을 유기적으로 연관시킬 방법 [slots 메모](https://punrabbit.github.io/python-slots/)
 
+11. 섣부른 추상화를 구변해낼 방법...?
+
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
