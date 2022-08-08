@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 10. Python 디스크립터 __slots__ 와 OOP 개념을 유기적으로 연관시킬 방법 [slots 메모](https://punrabbit.github.io/python-slots/)
 
-11. 섣부른 추상화를 구변해낼 방법...? (전혀 답은 아니지만 메모)[https://punrabbit.github.io/is-python-always-needs-abstractclass/]
+11. 섣부른 추상화를 구변해낼 방법...? [전혀 답은 아니지만 메모](https://punrabbit.github.io/is-python-always-needs-abstractclass/)
 
 12. 외부 API를 사용해야 할 경우, 비즈니스 로직에서 어떤 방식으로 구성하고 어떤 객체를 어디에 위치시켜 사용해야 좋을까..?
 
