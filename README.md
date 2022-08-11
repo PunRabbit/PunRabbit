@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 12. 외부 API를 사용해야 할 경우, 비즈니스 로직에서 어떤 방식으로 구성하고 어떤 객체를 어디에 위치시켜 사용해야 좋을까..?
 
-13. 사수가 없는 주니어가 올바르고 빠르게 성장할 수 있는 방법은...?
+13. 사수가 없는 주니어가 올바르고 빠르게 성장할 수 있는 방법은...? [주저리주저리](https://punrabbit.github.io/junior-developer-who-has-no-senior/)
 
 <br/><br/>
 
