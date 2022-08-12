@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 13. 사수가 없는 주니어가 올바르고 빠르게 성장할 수 있는 방법은...? [주저리주저리](https://punrabbit.github.io/junior-developer-who-has-no-senior/)
 
+14. Python으로 DTO를 깔끔하게 구현할 방법..? DTO 객체의 위치와 데이터를 DTO로 유연하게 변경할 수 있는 방법...??
+
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
