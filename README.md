@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 <img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/> <br/><br/>
 
+### 지금 읽고있는 책 :book:
+
+Clean Architecture <br/><br/>
+
 ### 최근 고민거리 💭 
 
 1. FastAPI의 폴더구조
