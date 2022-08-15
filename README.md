@@ -66,7 +66,7 @@ Clean Architecture <br/><br/>
 
 14. Python으로 DTO를 깔끔하게 구현할 방법..? DTO 객체의 위치와 데이터를 DTO로 유연하게 변경할 수 있는 방법...??
 
-15. 외부의 영향을 덜 받고 개방 폐쇄를 잘 지킬 수 있는 아키텍처 구조는 어떻게 짜야하는가??..
+15. 외부의 영향을 덜 받고 개방 폐쇄를 잘 지킬 수 있는 아키텍처 구조는 어떻게 짜야하는가??.. [소심하게 남기는 생각](https://punrabbit.github.io/python-abstractclass2/)
 
 <br/><br/>
 
