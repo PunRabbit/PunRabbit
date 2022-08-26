@@ -83,6 +83,8 @@ Clean Architecture <br/><br/>
 15. 외부의 영향을 덜 받고 개방 폐쇄를 잘 지킬 수 있는 아키텍처 구조는 어떻게 짜야하는가??..
 > [소심하게 남기는 생각](https://punrabbit.github.io/python-abstractclass2/)
 
+16. Python의 윈도우와 리눅스 메모리 할당 방식의 차이점은 존재하는가? 왜 일부 데이터들의 메모리 할당 주소값이 다른지..?
+
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
