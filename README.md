@@ -85,7 +85,7 @@ Clean Architecture <br/><br/>
 
 16. Python의 윈도우와 리눅스 메모리 할당 방식의 차이점은 존재하는가? 왜 일부 데이터들의 메모리 할당 주소값이 다른지..?
 
-17. What is the core difference between Junior and Senior (Ipad Keyboard Error Occurred)
+17. 주니어와 시니어의 가장 큰 차이점이 무엇일까??
 
 <br/><br/>
 
