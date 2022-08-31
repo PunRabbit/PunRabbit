@@ -87,6 +87,8 @@ Clean Architecture <br/><br/>
 
 17. 주니어와 시니어의 가장 큰 차이점이 무엇일까??
 
+18. Flask + Gunicorn 으로 구성된 서버에 requests + asyncio 로 동기/비동기 요청을 보낼 때 보다 Nginx 를 붙인 서버에 요청을 보낼 때 응답속도가 더 늦어지는 이유? Locust 나 Jmeter 로 테스트하면 또 후자가 더 빠르다. requests 라이브러리에 특수한 무언가가 있는 것일까 아니면 Python으로 구성된 요청에 무언가 특별한게 있는 것일까?
+
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
