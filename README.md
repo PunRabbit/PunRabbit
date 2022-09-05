@@ -89,6 +89,8 @@ Clean Architecture <br/><br/>
 
 18. Flask + Gunicorn 으로 구성된 서버에 requests + asyncio 로 동기/비동기 요청을 보낼 때 보다 Nginx 를 붙인 서버에 요청을 보낼 때 응답속도가 더 늦어지는 이유? Locust 나 Jmeter 로 테스트하면 또 후자가 더 빠르다. requests 라이브러리에 특수한 무언가가 있는 것일까 아니면 Python으로 구성된 요청에 무언가 특별한게 있는 것일까?
 
+19. 객체와 클래스는 다르다! 충격! 기초부터 다시보자! 객체는 근본적으로 어떤 존재일까?
+
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
