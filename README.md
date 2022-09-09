@@ -5,6 +5,10 @@
 
 ## 어제의 내가 최고가 되지 않게 하자 ♻️ 
 
+:blue_heart: [깃허브 블로그](http://punrabbit.github.io)
+
+:green_heart: [우당탕탕 웹툰사이트](www.juniverse.kro.kr)
+
 <br/><br/>
 
 
