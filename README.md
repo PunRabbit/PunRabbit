@@ -7,7 +7,7 @@
 
 :blue_heart: [깃허브 블로그](http://punrabbit.github.io)
 
-:green_heart: [우당탕탕 웹툰사이트](https://www.juniverse.kro.kr)
+:green_heart: [우당탕탕 웹툰사이트](https://www.juniverse.kro.kr) [오라클 이슈로 동작 중지 중...]
 
 <br/><br/>
 
