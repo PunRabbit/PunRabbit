@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punrabbit&layout=compact&theme=dracula)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
