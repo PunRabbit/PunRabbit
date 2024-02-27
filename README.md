@@ -5,9 +5,17 @@
 
 ## 어제의 내가 최고가 되지 않게 하자 ♻️ 
 
+❤️ [다정한 녀석들 블로그](https://dajeonghan-nyeoseokdeul.github.io)
+
+🤍 [벨로그](https://velog.io/@punrabbit/posts)
+
 :blue_heart: [깃허브 블로그](http://punrabbit.github.io)
 
 :green_heart: [우당탕탕 웹툰사이트](https://www.juniverse.kro.kr) [오라클 이슈로 동작 중지 중...]
+
+
+
+
 
 <br/><br/>
 
