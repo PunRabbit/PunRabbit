@@ -59,9 +59,8 @@ Here are some ideas to get you started:
 <img alt="WEBTOON" src ="https://img.shields.io/badge/WEBTOON-00D564.svg?&style=for-the-badge&logo=WEBTOON&logoColor=white"/> <br/><br/>
 -->
 
-<br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punrabbit&show_icons=true&theme=dark)](https://github.com/punrabbit/github-readme-stats) <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punrabbit&layout=compact&theme=dracula)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punrabbit&layout=compact&theme=dracula)-->
 
