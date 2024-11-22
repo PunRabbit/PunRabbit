@@ -30,7 +30,11 @@
 </h4>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/punrabbit"/>
+<img
+  src="https://render.gitanimals.org/farms/PunRabbit"
+  width="600"
+  height="300"
+/>
 </a>
 </div>
 
